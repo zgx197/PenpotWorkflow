@@ -1,0 +1,49 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vs/
+*.code-workspace
+
+# VS Code local settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Node and package tools
+node_modules/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local export and preview artifacts
+exports/tmp/
+exports/preview/
+preview/
+.penpot-cache/
+
+# Generated archives and binaries
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.pdb
+
+# Environment files
+.env
+.env.*
